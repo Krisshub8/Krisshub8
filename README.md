@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Krisshub8
-- 👀 I’m interested in Web Testing, Auto testing, learning syntax Python
+- 👀 I’m interested in Web Testing, Auto testing tools
 - 🌱 I’m currently learning to work with Python 
 -  Save your Time its better then money :)
